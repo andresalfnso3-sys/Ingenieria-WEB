@@ -29,7 +29,7 @@ img {
   align-items: center;
   gap: 0.75rem;
   padding: 1rem;
-  background-color: #1f2937;
+  background-color: #134e4a;
   color: #fff;
 }
 
@@ -74,7 +74,7 @@ section {
 }
 
 .hero h1 span {
-  color: #2563eb;
+  color: #ea580c;
 }
 
 .hero p {
